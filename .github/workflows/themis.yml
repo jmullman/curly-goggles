@@ -3,7 +3,7 @@ name: Sample Themis Workflow
 
 on:
   issues:
-    types: [opened, reopened, labeled]    
+    types: [opened, reopened]    
 jobs:
   test:
     name: Test Action
