@@ -1,5 +1,5 @@
 ---
-name: Team Request
+name: team_inputs
 about: Request a new team
 title: '[TEAM] <title>'
 labels: issueops
@@ -8,8 +8,6 @@ assignees: ''
 ---
 
 
-### >>Team<<
+### >>teams<<
 
-### >>Members<<
-
-### >>Permission<<
+### >>members<<
