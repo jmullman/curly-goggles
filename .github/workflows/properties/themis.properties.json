@@ -1,0 +1,6 @@
+{
+    "name": "Sample Themis Workflow",
+    "description": "Demo of Themis.",
+    "iconName": "octicon check",
+    "categories": ["Automation"]
+}
