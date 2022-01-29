@@ -29,6 +29,7 @@ jobs:
       id: themis
       uses: decyjphr-actions/themis@HEAD
       with:
+        issue_name: '${{github.event.issue.name}}'
         issue_body_json: '${{ steps.parse.outputs.payload }}'
         pat_token: ${{secrets.pat_token}}
         
